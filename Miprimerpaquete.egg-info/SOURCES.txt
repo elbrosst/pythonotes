@@ -1,0 +1,5 @@
+setup.py
+Miprimerpaquete.egg-info/PKG-INFO
+Miprimerpaquete.egg-info/SOURCES.txt
+Miprimerpaquete.egg-info/dependency_links.txt
+Miprimerpaquete.egg-info/top_level.txt
